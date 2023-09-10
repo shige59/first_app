@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="WMAKTn4Od2M4tADhjI_t" name="ページ1">
+        <mxGraphModel dx="713" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-1" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="180" width="360" height="146" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-2" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="mCaX60BGhiVT-7fsLvSf-1">
+                    <mxGeometry y="26" width="360" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-3" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="mCaX60BGhiVT-7fsLvSf-1">
+                    <mxGeometry y="56" width="360" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-4" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="mCaX60BGhiVT-7fsLvSf-1">
+                    <mxGeometry y="86" width="360" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-13" value="Item" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="mCaX60BGhiVT-7fsLvSf-1">
+                    <mxGeometry y="116" width="360" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-14" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="195" width="160" height="116" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-15" value="Item 1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="mCaX60BGhiVT-7fsLvSf-14">
+                    <mxGeometry y="26" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-16" value="Item 2" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="mCaX60BGhiVT-7fsLvSf-14">
+                    <mxGeometry y="56" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-17" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="mCaX60BGhiVT-7fsLvSf-14">
+                    <mxGeometry y="86" width="160" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="mCaX60BGhiVT-7fsLvSf-18" style="html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mCaX60BGhiVT-7fsLvSf-13" target="mCaX60BGhiVT-7fsLvSf-17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
